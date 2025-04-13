@@ -36,6 +36,7 @@ The goal of this task was to design an interactive dashboard that provides busin
 - Dashboard File: .pbix file created in Power BI.
 - Dataset: The cleaned dataset used for analysis.
 - Screenshots: Images of the dashboard for quick reference.
+- PPT: PPT file to clearly understand the Dashboard.
 - README.md: This file, explaining the project overview and deliverables.
 
 
